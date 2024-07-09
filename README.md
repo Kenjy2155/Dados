@@ -1,2 +1,2 @@
 # Dados
-Em uma atividade durante a aula, os estudantes escreveram um relatorio de um software que desejavam que alguem programasse para ele, e ao escrever este relatorio teve um sorteio, durante o sorteio eu peguei o projeto de criar um software que rolara dados. Segue abaixo o meu projeto
+O software faz uma "rolagem de dados". Primeiro ele te pede para voce inserir o numero de lados dos dados, o numero de dados(limitado até 3 dados), em seguida ele faz a rolagem dos dados, imprime o valor dos dados e executa a soma dos valores.
